@@ -1,0 +1,523 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="bd.btv" tvg-chno="1"< tvg-name="BTV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",BTV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.btvworld" tvg-chno="2" tvg-name="BTV World" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",BTV World
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.btvchattogram" tvg-chno="3" tvg-name="BTV Chattogram" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",BTV Chattogram
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.sangsadtv" tvg-chno="4" tvg-name="Sangsad TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Sangsad TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.atnbangla" tvg-chno="5" tvg-name="ATN Bangla" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",ATN Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.channeli" tvg-chno="6" tvg-name="Channel i" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Channel i
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.ntv" tvg-chno="7" tvg-name="NTV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",NTV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.rtv" tvg-chno="8" tvg-name="RTV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",RTV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.banglavision" tvg-chno="9" tvg-name="BanglaVision" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",BanglaVision
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.gtv" tvg-chno="19" tvg-name="GTV (Gazi TV)" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",GTV (Gazi TV)
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.deeptotv" tvg-chno="21" tvg-name="Deepto TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Deepto TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.mohonatv" tvg-chno="22" tvg-name="Mohona TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Mohona TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.boishakhitv" tvg-chno="23" tvg-name="Boishakhi TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Boishakhi TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.maasrangatv" tvg-chno="24" tvg-name="Maasranga TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Maasranga TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.deshtv" tvg-chno="25" tvg-name="Desh TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Desh TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.satv" tvg-chno="26" tvg-name="SA TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",SA TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.nagoriktv" tvg-chno="27" tvg-name="Nagorik TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Nagorik TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.mytv" tvg-chno="28" tvg-name="MyTV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",MyTV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.asiantv" tvg-chno="29" tvg-name="Asian TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Asian TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.anandatv" tvg-chno="30" tvg-name="Ananda TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Ananda TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.bijoytv" tvg-chno="31" tvg-name="Bijoy TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Bijoy TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.banglatv" tvg-chno="32" tvg-name="Bangla TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Bangla TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.globaltelevision" tvg-chno="33" tvg-name="Global Television" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Global Television
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.channel9" tvg-chno="34" tvg-name="Channel 9" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Channel 9
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.fishtv" tvg-chno="35" tvg-name="Fish TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Fish TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.greentv" tvg-chno="37" tvg-name="Green TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Green TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.nrbtv" tvg-chno="38" tvg-name="NRB TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",NRB TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.channels" tvg-chno="39" tvg-name="Channel S" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Channel S
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.timetelevision" tvg-chno="40" tvg-name="Time Television" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Time Television
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.moviebangla" tvg-chno="41" tvg-name="Movie Bangla" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Movie Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.drama24" tvg-chno="42" tvg-name="Drama 24" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Drama 24
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.cineeplex" tvg-chno="43" tvg-name="Cineeplex" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Cineeplex
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.binge" tvg-chno="44" tvg-name="Binge" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Binge
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.mohonaplus" tvg-chno="34" tvg-name="Mohona Plus" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Mohona Plus
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.btvhd" tvg-chno="49" tvg-name="BTV HD" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",BTV HD
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.btvnational" tvg-chno="50" tvg-name="BTV National" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",BTV National
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.somoytv" tvg-chno="10" tvg-name="Somoy TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Somoy TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.ekattortv" tvg-chno="11" tvg-name="Ekattor TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Ekattor TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.jamunatv" tvg-chno="12" tvg-name="Jamuna TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Jamuna TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.channel24" tvg-chno="13" tvg-name="Channel 24" tvg-logo="https://your-logo-url.png" group-title="NEWS",Channel 24
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.independenttv" tvg-chno="14" tvg-name="Independent Television" tvg-logo="https://your-logo-url.png" group-title="NEWS",Independent Television
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.dbcnews" tvg-chno="15" tvg-name="DBC News" tvg-logo="https://your-logo-url.png" group-title="NEWS",DBC News
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.news24" tvg-chno="16" tvg-name="News24" tvg-logo="https://your-logo-url.png" group-title="NEWS",News24
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.atnnews" tvg-chno="17" tvg-name="ATN News" tvg-logo="https://your-logo-url.png" group-title="NEWS",ATN News
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.ekhontv" tvg-chno="18" tvg-name="Ekhon TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Ekhon TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.tsports" tvg-chno="20" tvg-name="T Sports" tvg-logo="https://your-logo-url.png" group-title="SPORTS",T Sports
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.starjalshahd" tvg-chno="51" tvg-name="Star Jalsha HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Star Jalsha HD
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.starjalsha" tvg-chno="52" tvg-name="Star Jalsha" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Star Jalsha
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zeebanglahd" tvg-chno="53" tvg-name="Zee Bangla HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Zee Bangla HD
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zeebangla" tvg-chno="54" tvg-name="Zee Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Zee Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.colorsbanglahd" tvg-chno="55" tvg-name="Colors Bangla HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Colors Bangla HD
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.colorsbangla" tvg-chno="56" tvg-name="Colors Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Colors Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.sunbangla" tvg-chno="57" tvg-name="Sun Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Sun Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.sonyaath" tvg-chno="58" tvg-name="Sony Aath" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Sony Aath
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.akashaath" tvg-chno="59" tvg-name="Akash Aath" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Akash Aath
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.enterr10bangla" tvg-chno="60" tvg-name="Enterr10 Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Enterr10 Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.ddbangla" tvg-chno="61" tvg-name="DD Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",DD Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.kolkatatv" tvg-chno="62" tvg-name="Kolkata TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Kolkata TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.calcuttanews" tvg-chno="63" tvg-name="Calcutta News" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Calcutta News
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.news18bangla" tvg-chno="64" tvg-name="News18 Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",News18 Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zee24ghanta" tvg-chno="65" tvg-name="Zee 24 Ghanta" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Zee 24 Ghanta
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.republicbangla" tvg-chno="66" tvg-name="Republic Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Republic Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.tv9bangla" tvg-chno="67" tvg-name="TV9 Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",TV9 Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.abpananda" tvg-chno="68" tvg-name="ABP Ananda" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",ABP Ananda
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.rplusnews" tvg-chno="69" tvg-name="R Plus News" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",R Plus News
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.banglatalkies" tvg-chno="70" tvg-name="Bangla Talkies" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Bangla Talkies
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.starplushd" tvg-chno="71" tvg-name="Star Plus HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Star Plus HD
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.starplus" tvg-chno="72" tvg-name="Star Plus" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Star Plus
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.colorshd" tvg-chno="73" tvg-name="Colors HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Colors HD
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.colorstv" tvg-chno="74" tvg-name="Colors TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Colors TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zeetvhd" tvg-chno="75" tvg-name="Zee TV HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Zee TV HD
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zeetv" tvg-chno="76" tvg-name="Zee TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Zee TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.sonysethd" tvg-chno="77" tvg-name="Sony Entertainment TV HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Sony Entertainment TV HD
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.sonytv" tvg-chno="78" tvg-name="Sony TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Sony TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.sabtv" tvg-chno="79" tvg-name="SAB TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",SAB TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.sonypal" tvg-chno="80" tvg-name="Sony Pal" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Sony Pal
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.starbharat" tvg-chno="81" tvg-name="Star Bharat" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Star Bharat
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.andtv" tvg-chno="82" tvg-name="&TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",&TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.dangaltv" tvg-chno="83" tvg-name="Dangal TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Dangal TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.dangal2" tvg-chno="84" tvg-name="Dangal 2" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Dangal 2
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.shemarootv" tvg-chno="85" tvg-name="Shemaroo TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Shemaroo TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.nazaratv" tvg-chno="86" tvg-name="Nazara TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Nazara TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.bigmagic" tvg-chno="87" tvg-name="Big Magic" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Big Magic
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.atrangiitv" tvg-chno="88" tvg-name="Atrangii TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Atrangii TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.ddnational" tvg-chno="89" tvg-name="DD National" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",DD National
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.ddindia" tvg-chno="90" tvg-name="DD India" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",DD India
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.ddbharati" tvg-chno="91" tvg-name="DD Bharati" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",DD Bharati
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.ddretro" tvg-chno="92" tvg-name="DD Retro" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",DD Retro
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.epictv" tvg-chno="93" tvg-name="Epic TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Epic TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.tataplayclassic" tvg-chno="94" tvg-name="Tata Play Classic" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Tata Play Classic
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.manoranjangrand" tvg-chno="95" tvg-name="Manoranjan Grand" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Manoranjan Grand
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.manoranjantv" tvg-chno="96" tvg-name="Manoranjan TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Manoranjan TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.enterr10" tvg-chno="97" tvg-name="Enterr10" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Enterr10
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.isharatv" tvg-chno="98" tvg-name="Ishara TV" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Ishara TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zeeanmol" tvg-chno="99" tvg-name="Zee Anmol" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Zee Anmol
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.starutsav" tvg-chno="100" tvg-name="Star Utsav" tvg-logo="https://your-logo-url.png" group-title="INDIAN-HINDI",Star Utsav
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.sonymax" tvg-chno="101" tvg-name="Sony MAX" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Sony MAX
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.sonymax2" tvg-chno="102" tvg-name="Sony MAX 2" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Sony MAX 2
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.stargold" tvg-chno="103" tvg-name="Star Gold" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Star Gold
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.stargold2" tvg-chno="104" tvg-name="Star Gold 2" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Star Gold 2
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zeecinema" tvg-chno="105" tvg-name="Zee Cinema" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Zee Cinema
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zeeaction" tvg-chno="106" tvg-name="Zee Action" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Zee Action
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.colorscineplex" tvg-chno="107" tvg-name="Colors Cineplex" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Colors Cineplex
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.colorscineplexbollywood" tvg-chno="108" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Colors Cineplex Bollywood
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.b4umovies" tvg-chno="109" tvg-name="B4U Movies" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",B4U Movies
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.utvmovies" tvg-chno="110" tvg-name="UTV Movies" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",UTV Movies
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.goldmines" tvg-chno="111" tvg-name="Goldmines" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Goldmines
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.goldminesbollywood" tvg-chno="112" tvg-name="Goldmines Bollywood" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Goldmines Bollywood
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.wowcinema" tvg-chno="113" tvg-name="WOW Cinema" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",WOW Cinema
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.manoranjanmovies" tvg-chno="114" tvg-name="Manoranjan Movies" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Manoranjan Movies
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.enterr10movies" tvg-chno="115" tvg-name="Enterr10 Movies" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Enterr10 Movies
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.suryacinema" tvg-chno="116" tvg-name="Surya Cinema" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Surya Cinema
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.filamchi" tvg-chno="117" tvg-name="Filamchi" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Filamchi
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.oscarmovies" tvg-chno="118" tvg-name="Oscar Movies" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Oscar Movies
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.dabangg" tvg-chno="119" tvg-name="Dabangg" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Dabangg
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.movieplus" tvg-chno="120" tvg-name="Movie Plus" tvg-logo="https://your-logo-url.png" group-title="HINDI-MOVIE",Movie Plus
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.hbo" tvg-chno="121" tvg-name="HBO" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",HBO
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.hbohits" tvg-chno="122" tvg-name="HBO Hits" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",HBO Hits
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.starmovies" tvg-chno="123" tvg-name="Star Movies" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Star Movies
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.starmoviesselect" tvg-chno="124" tvg-name="Star Movies Select" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Star Movies Select
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.sonypix" tvg-chno="125" tvg-name="Sony PIX" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Sony PIX
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.moviesnow" tvg-chno="126" tvg-name="Movies Now" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Movies Now
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.mnx" tvg-chno="127" tvg-name="MNX" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",MNX
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.romedynow" tvg-chno="128" tvg-name="Romedy Now" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Romedy Now
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.andflix" tvg-chno="129" tvg-name="&flix" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",&flix
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.fx" tvg-chno="130" tvg-name="FX" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",FX
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.warnertv" tvg-chno="131" tvg-name="Warner TV" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Warner TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.paramountnetwork" tvg-chno="132" tvg-name="Paramount Network" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Paramount Network
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.studiouniversal" tvg-chno="133" tvg-name="Studio Universal" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Studio Universal
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.axn" tvg-chno="134" tvg-name="AXN" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",AXN
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.kix" tvg-chno="135" tvg-name="KIX" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",KIX
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.durontotv" tvg-chno="36" tvg-name="Duronto TV" tvg-logo="https://your-logo-url.png" group-title="KIDS",Duronto TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.cartoonnetwork" tvg-chno="136" tvg-name="Cartoon Network" tvg-logo="https://your-logo-url.png" group-title="KIDS",Cartoon Network
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.pogo" tvg-chno="137" tvg-name="Pogo" tvg-logo="https://your-logo-url.png" group-title="KIDS",Pogo
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.discoverykids" tvg-chno="138" tvg-name="Discovery Kids" tvg-logo="https://your-logo-url.png" group-title="KIDS",Discovery Kids
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.nick" tvg-chno="139" tvg-name="Nick" tvg-logo="https://your-logo-url.png" group-title="KIDS",Nick
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.nickjr" tvg-chno="140" tvg-name="Nick Jr." tvg-logo="https://your-logo-url.png" group-title="KIDS",Nick Jr.
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.sonic" tvg-chno="141" tvg-name="Sonic" tvg-logo="https://your-logo-url.png" group-title="KIDS",Sonic
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.disneychannel" tvg-chno="142" tvg-name="Disney Channel" tvg-logo="https://your-logo-url.png" group-title="KIDS",Disney Channel
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.hungamatv" tvg-chno="143" tvg-name="Hungama TV" tvg-logo="https://your-logo-url.png" group-title="KIDS",Hungama TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.babytv" tvg-chno="144" tvg-name="Baby TV" tvg-logo="https://your-logo-url.png" group-title="KIDS",Baby TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.cbeebies" tvg-chno="145" tvg-name="CBeebies" tvg-logo="https://your-logo-url.png" group-title="KIDS",CBeebies
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.mtv" tvg-chno="146" tvg-name="MTV" tvg-logo="https://your-logo-url.png" group-title="MUSIC",MTV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.mtvbeats" tvg-chno="147" tvg-name="MTV Beats" tvg-logo="https://your-logo-url.png" group-title="MUSIC",MTV Beats
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.9xm" tvg-chno="148" tvg-name="9XM" tvg-logo="https://your-logo-url.png" group-title="MUSIC",9XM
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.b4umusic" tvg-chno="149" tvg-name="B4U Music" tvg-logo="https://your-logo-url.png" group-title="MUSIC",B4U Music
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.mastiii" tvg-chno="150" tvg-name="Mastiii" tvg-logo="https://your-logo-url.png" group-title="MUSIC",Mastiii
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.zoom" tvg-chno="151" tvg-name="Zoom" tvg-logo="https://your-logo-url.png" group-title="MUSIC",Zoom
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.musicindia" tvg-chno="152" tvg-name="Music India" tvg-logo="https://your-logo-url.png" group-title="MUSIC",Music India
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.showbox" tvg-chno="153" tvg-name="ShowBox" tvg-logo="https://your-logo-url.png" group-title="MUSIC",ShowBox
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.vh1" tvg-chno="154" tvg-name="VH1" tvg-logo="https://your-logo-url.png" group-title="MUSIC",VH1
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.insync" tvg-chno="155" tvg-name="Insync" tvg-logo="https://your-logo-url.png" group-title="MUSIC",Insync
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.discoverychannel" tvg-chno="156" tvg-name="Discovery Channel" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",Discovery Channel
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.animalplanet" tvg-chno="157" tvg-name="Animal Planet" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",Animal Planet
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.natgeo" tvg-chno="158" tvg-name="National Geographic" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",National Geographic
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.natgeowild" tvg-chno="159" tvg-name="Nat Geo Wild" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",Nat Geo Wild
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.historytv18" tvg-chno="160" tvg-name="History TV18" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",History TV18
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.bbcearth" tvg-chno="161" tvg-name="BBC Earth" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",BBC Earth
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.lovenature" tvg-chno="162" tvg-name="Love Nature" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",Love Nature
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="in.travelxp" tvg-chno="163" tvg-name="TravelXP" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",TravelXP
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.discoveryscience" tvg-chno="164" tvg-name="Discovery Science" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",Discovery Science
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.discoveryturbo" tvg-chno="165" tvg-name="Discovery Turbo" tvg-logo="https://your-logo-url.png" group-title="DOCUMENTARY",Discovery Turbo
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.islamictv" tvg-chno="45" tvg-name="Islamic TV" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Islamic TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.peacetvbangla" tvg-chno="167" tvg-name="Peace TV Bangla" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Peace TV Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="bd.qurantvbangla" tvg-chno="47" tvg-name="Quran TV Bangla" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Quran TV Bangla
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.peacetv" tvg-chno="166" tvg-name="Peace TV" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Peace TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.madanichannel" tvg-chno="168" tvg-name="Madani Channel" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Madani Channel
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.qurantv" tvg-chno="169" tvg-name="Quran TV" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Quran TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.makkahlive" tvg-chno="170" tvg-name="Makkah Live" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Makkah Live
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.madinahlive" tvg-chno="171" tvg-name="Madinah Live" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Madinah Live
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.hudatv" tvg-chno="172" tvg-name="Huda TV" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Huda TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.iqraatv" tvg-chno="173" tvg-name="Iqraa TV" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Iqraa TV
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.alresalah" tvg-chno="174" tvg-name="Al Resalah" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Al Resalah
+https://your-stream-url.m3u8
+
+#EXTINF:-1 tvg-id="intl.noordubai" tvg-chno="175" tvg-name="Noor Dubai" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Noor Dubai
+https://your-stream-url.m3u8
