@@ -12,7 +12,7 @@ https://your-stream-url.m3u8
 #EXTINF:-1 tvg-id="bd.sangsadtv" tvg-chno="4" tvg-name="Sangsad TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Sangsad TV
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.atnbangla" tvg-chno="5" tvg-name="ATN Bangla" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",ATN Bangla
+#EXTINF:-1 tvg-id="bd.atnbangla" tvg-chno="5" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/K1HmMRz.png"" group-title="BANGLADESHI",ATN Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bd.channeli" tvg-chno="6" tvg-name="Channel i" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="BANGLADESHI",Channel I HD
@@ -24,8 +24,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="bd.rtv" tvg-chno="8" tvg-name="RTV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",RTV
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.banglavision" tvg-chno="9" tvg-name="BanglaVision" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",BanglaVision
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.banglavision" tvg-chno="9" tvg-name="BanglaVision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="BANGLADESHI",Bangla Vision
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.gtv" tvg-chno="19" tvg-name="GTV (Gazi TV)" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",GTV (Gazi TV)
 https://your-stream-url.m3u8
@@ -63,35 +63,35 @@ https://your-stream-url.m3u8
 #EXTINF:-1 tvg-id="bd.bijoytv" tvg-chno="31" tvg-name="Bijoy TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Bijoy TV
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.banglatv" tvg-chno="32" tvg-name="Bangla TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Bangla TV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.banglatv" tvg-chno="32" tvg-name="Bangla TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI",Bangla TV
+https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bd.globaltelevision" tvg-chno="33" tvg-name="Global Television" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Global Television
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.globaltelevision" tvg-chno="33" tvg-name="Global Television" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI",Global Television
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.channel9" tvg-chno="34" tvg-name="Channel 9" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Channel 9
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.channel9" tvg-chno="34" tvg-name="Channel 9" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="BANGLADESHI",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.fishtv" tvg-chno="35" tvg-name="Fish TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Fish TV
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.greentv" tvg-chno="37" tvg-name="Green TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Green TV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.greentv" tvg-chno="37" tvg-name="Green TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BANGLADESHI",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bd.nrbtv" tvg-chno="38" tvg-name="NRB TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",NRB TV
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.channels" tvg-chno="39" tvg-name="Channel S" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Channel S
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.channels" tvg-chno="39" tvg-name="Channel S" tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="BANGLADESHI",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bd.timetelevision" tvg-chno="40" tvg-name="Time Television" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Time Television
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.moviebangla" tvg-chno="41" tvg-name="Movie Bangla" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Movie Bangla
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.moviebangla" tvg-chno="41" tvg-name="Movie Bangla" tvg-logo="https://i.ibb.co.com/CKVX4Pzx/images.png" group-title="BANGLADESHI",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.drama24" tvg-chno="42" tvg-name="Drama 24" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Drama 24
-https://your-stream-url.m3u8
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="bd.cineeplex" tvg-chno="43" tvg-name="Cineeplex" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Cineeplex
 https://your-stream-url.m3u8
