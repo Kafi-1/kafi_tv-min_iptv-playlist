@@ -30,20 +30,20 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-id="bd.gtv" tvg-chno="19" tvg-name="GTV (Gazi TV)" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",GTV (Gazi TV)
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.deeptotv" tvg-chno="21" tvg-name="Deepto TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Deepto TV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.deeptotv" tvg-chno="21" tvg-name="Deepto TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="BANGLADESHI",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.mohonatv" tvg-chno="22" tvg-name="Mohona TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Mohona TV
+#EXTINF:-1 tvg-id="bd.mohonatv" tvg-chno="22" tvg-name="Mohona TV" tvg-logo="https://i.imgur.com/E6doEWH.png" group-title="BANGLADESHI",Mohona TV
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.boishakhitv" tvg-chno="23" tvg-name="Boishakhi TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Boishakhi TV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.boishakhitv" tvg-chno="23" tvg-name="Boishakhi TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Boishakhi%20Tv%20Logo.png" group-title="BANGLADESHI",Boishakhi TV
+https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.maasrangatv" tvg-chno="24" tvg-name="Maasranga TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Maasranga TV
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.deshtv" tvg-chno="25" tvg-name="Desh TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Desh TV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.deshtv" tvg-chno="25" tvg-name="Desh TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png" group-title="BANGLADESHI",Desh TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.satv" tvg-chno="26" tvg-name="SA TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",SA TV
 https://your-stream-url.m3u8
@@ -63,7 +63,7 @@ https://your-stream-url.m3u8
 #EXTINF:-1 tvg-id="bd.bijoytv" tvg-chno="31" tvg-name="Bijoy TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Bijoy TV
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.banglatv" tvg-chno="32" tvg-name="Bangla TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI",Bangla TV
+#EXTINF:-1 tvg-id="bd.banglatv" tvg-chno="32" tvg-name="Bangla TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI",Bangla TV HD
 https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bd.globaltelevision" tvg-chno="33" tvg-name="Global Television" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI",Global Television
@@ -72,8 +72,8 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="bd.channel9" tvg-chno="34" tvg-name="Channel 9" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="BANGLADESHI",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.fishtv" tvg-chno="35" tvg-name="Fish TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Fish TV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.channel1" tvg-chno="35" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="BANGLADESHI",Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.greentv" tvg-chno="37" tvg-name="Green TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BANGLADESHI",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
@@ -114,11 +114,11 @@ https://your-stream-url.m3u8
 #EXTINF:-1 tvg-id="bd.ekattortv" tvg-chno="11" tvg-name="Ekattor TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Ekattor TV
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.jamunatv" tvg-chno="12" tvg-name="Jamuna TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Jamuna TV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.jamunatv" tvg-chno="12" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="NEWS",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.channel24" tvg-chno="13" tvg-name="Channel 24" tvg-logo="https://your-logo-url.png" group-title="NEWS",Channel 24
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.channel24" tvg-chno="13" tvg-name="Channel 24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="NEWS",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.independenttv" tvg-chno="14" tvg-name="Independent Television" tvg-logo="https://your-logo-url.png" group-title="NEWS",Independent Television
 https://your-stream-url.m3u8
@@ -139,16 +139,16 @@ https://your-stream-url.m3u8
 https://your-stream-url.m3u8
 
 #EXTINF:-1 tvg-id="in.starjalshahd" tvg-chno="51" tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN-BANGLA",Star Jalsha HD
-http://103.191.99.248:5550/302/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a703c0c1c084f1b080b0030234b13000a5b2f5e514b193f020f281d0537205a1f0c0253555e4e6e125f544b5f4c190872730c6b2a5f3e47073a31084f5c545b52594479361d17170b07365d5e0f5b601e41.m3u8
 
 #EXTINF:-1 tvg-id="in.starjalsha" tvg-chno="52" tvg-name="Star Jalsha" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Star Jalsha
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="in.zeebanglahd" tvg-chno="53" tvg-name="Zee Bangla HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Zee Bangla HD
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="in.zeebanglahd" tvg-chno="53" tvg-name="Zee Bangla HD" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png" group-title="INDIAN-BANGLA",Zee Bangla HD
+https://toffee.marufhossainkeyas.workers.dev/41.m3u8
 
-#EXTINF:-1 tvg-id="in.zeebangla" tvg-chno="54" tvg-name="Zee Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Zee Bangla
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="in.zeebangla" tvg-chno="54" tvg-name="Zee Bangla SD" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png" group-title="INDIAN-BANGLA",Zee Bangla SD
+http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="in.colorsbanglahd" tvg-chno="55" tvg-name="Colors Bangla HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Colors Bangla HD
 https://your-stream-url.m3u8
@@ -354,14 +354,14 @@ https://your-stream-url.m3u8
 #EXTINF:-1 tvg-id="intl.hbohits" tvg-chno="122" tvg-name="HBO Hits" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",HBO Hits
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="intl.starmovies" tvg-chno="123" tvg-name="Star Movies" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Star Movies
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="intl.starmovies" tvg-chno="123" tvg-name="Star Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ENGLISH-MOVIE",Star Movies HD
+http://103.191.99.248:5550/501/index.m3u8
 
 #EXTINF:-1 tvg-id="intl.starmoviesselect" tvg-chno="124" tvg-name="Star Movies Select" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Star Movies Select
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="intl.sonypix" tvg-chno="125" tvg-name="Sony PIX" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Sony PIX
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="intl.sonypix" tvg-chno="125" tvg-name="Sony PIX" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="ENGLISH-MOVIE",Sony PIX
+http://103.191.99.248:5550/503/index.m3u8
 
 #EXTINF:-1 tvg-id="intl.moviesnow" tvg-chno="126" tvg-name="Movies Now" tvg-logo="https://your-logo-url.png" group-title="ENGLISH-MOVIE",Movies Now
 https://your-stream-url.m3u8
