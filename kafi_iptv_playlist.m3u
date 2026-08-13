@@ -21,8 +21,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="bd.ntv" tvg-chno="7" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="BANGLADESHI",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.rtv" tvg-chno="8" tvg-name="RTV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",RTV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.rtv" tvg-chno="8" tvg-name="RTV" tvg-logo="https://otapp.store/uploads/tv_image/sm/rtv.png" group-title="BANGLADESHI",RTV
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://go.skym3u.top/live/3b1f0d3d404f707f04021d535a4b0415383c07075c061b321c52561930582f34571809293d4a3f110c203b4d123a5d1b3c1c4c267f76767316233e2e5527382a344423352f020a3130320025080732660069654e1a312d0203206f351f3c5c2814281712293020070120123a7655795f1d002f0300250b1f08162b120b323c003e045052130c24375c60667f61440b3945582c374b0119130b04035b2f3f041a1e0c072b1c5d01436b.m3u8
 
 #EXTINF:-1 tvg-id="bd.banglavision" tvg-chno="9" tvg-name="BanglaVision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="BANGLADESHI",Bangla Vision
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
@@ -96,8 +97,8 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="bd.cineeplex" tvg-chno="43" tvg-name="Cineeplex" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Cineeplex
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.binge" tvg-chno="44" tvg-name="Binge" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Binge
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.nrb" tvg-chno="44" tvg-name="NRT TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",NRT TV 
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bd.mohonaplus" tvg-chno="34" tvg-name="Mohona Plus" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Mohona Plus
 https://your-stream-url.m3u8
@@ -112,7 +113,7 @@ https://your-stream-url.m3u8
 https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d020b0808295c03152a07102e583901243566340e4c1b0b103a4a1e5f052653.m3u8
 
 #EXTINF:-1 tvg-id="bd.ekattortv" tvg-chno="11" tvg-name="Ekattor TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Ekattor TV
-https://go.skym3u.top/live/3b1f0d3d404f707f03061d4f0f161d153b3a0e015c121b2d595540457d0f1c3b1c062b220013004f03561b4c603a015e5d001f3e46445d440c1f0f.m3u8
+http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="bd.jamunatv" tvg-chno="12" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="NEWS",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
@@ -136,19 +137,19 @@ https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.tsports" tvg-chno="20" tvg-name="T Sports" tvg-logo="https://your-logo-url.png" group-title="SPORTS",T Sports
-https://your-stream-url.m3u8
+https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400564015263d040c06115a3c5d5d1d6032062138623d677f0c1c0904164b03472a6b.m3u8
 
-#EXTINF:-1 tvg-id="in.starjalshahd" tvg-chno="51" tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN-BANGLA",Star Jalsha HD
+#EXTINF:-1 tvg-id="in.stajalshahd" tvg-chno="51" tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN-BANGLA",Star Jalsha HD
 https://go.skym3u.top/live/3b1f0d3d095a703c0c1c084f1b080b0030234b13000a5b2f5e514b193f020f281d0537205a1f0c0253555e4e6e125f544b5f4c190872730c6b2a5f3e47073a31084f5c545b52594479361d17170b07365d5e0f5b601e41.m3u8
 
 #EXTINF:-1 tvg-id="in.starjalsha" tvg-chno="52" tvg-name="Star Jalsha" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Star Jalsha
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/155770.m3u8
 
 #EXTINF:-1 tvg-id="in.zeebanglahd" tvg-chno="53" tvg-name="Zee Bangla HD" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png" group-title="INDIAN-BANGLA",Zee Bangla HD
-https://toffee.marufhossainkeyas.workers.dev/41.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 
 #EXTINF:-1 tvg-id="in.zeebangla" tvg-chno="54" tvg-name="Zee Bangla SD" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png" group-title="INDIAN-BANGLA",Zee Bangla SD
-http://103.159.180.34:5001/live/625.m3u8
+https://toffee.marufhossainkeyas.workers.dev/41.m3u8
 
 #EXTINF:-1 tvg-id="in.colorsbanglahd" tvg-chno="55" tvg-name="Colors Bangla HD" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Colors Bangla HD
 http://live.balajibroadband.com:3500/live/756.m3u8
@@ -514,7 +515,7 @@ https://your-stream-url.m3u8
 https://your-stream-url.m3u8
 
 #EXTINF:-1 tvg-id="intl.iqraatv" tvg-chno="173" tvg-name="Iqraa TV" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Iqraa TV
-https://your-stream-url.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="intl.alresalah" tvg-chno="174" tvg-name="Al Resalah" tvg-logo="https://your-logo-url.png" group-title="ISLAMIC",Al Resalah
 https://your-stream-url.m3u8
