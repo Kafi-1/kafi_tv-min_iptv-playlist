@@ -9,8 +9,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="bd.ekushetvhd" tvg-chno="3" tvg-name="Ekushe TV HD" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Ekushe TV HD
 https://go.skym3u.top/live/3b1f0d3d404f707f00191812060017073a211306004b17305f1f57422507103b5606317e08411859.m3u8
 
-#EXTINF:-1 tvg-id="bd.sangsadtv" tvg-chno="4" tvg-name="Sangsad TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Sangsad TV
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.sangsadtv" tvg-chno="4" tvg-name="Sangsad TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png" group-title="BANGLADESHI",Sangsad TV
+https://akash.sm-monirul.top/btv_shangshad.m3u8
 
 #EXTINF:-1 tvg-id="bd.atnbangla" tvg-chno="5" tvg-name="ATN Bangla" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/ATN%20Bangla.png" group-title="BANGLADESHI",ATN Bangla
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
@@ -26,7 +26,7 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://go.skym3u.top/live/3b1f0d3d404f707f04021d535a4b0415383c07075c061b321c52561930582f34571809293d4a3f110c203b4d123a5d1b3c1c4c267f76767316233e2e5527382a344423352f020a3130320025080732660069654e1a312d0203206f351f3c5c2814281712293020070120123a7655795f1d002f0300250b1f08162b120b323c003e045052130c24375c60667f61440b3945582c374b0119130b04035b2f3f041a1e0c072b1c5d01436b.m3u8
 
 #EXTINF:-1 tvg-id="bd.banglavision" tvg-chno="9" tvg-name="BanglaVision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="BANGLADESHI",Bangla Vision
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+https://tvsen5.aynaott.com/banglavision/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.entertv" tvg-chno="19" tvg-name="Enter TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Enter TV
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
@@ -74,6 +74,8 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.channel1" tvg-chno="35" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="BANGLADESHI",Channel 1
+https://akash.sm-monirul.top/channel_1.m3u8
+
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.greentv" tvg-chno="37" tvg-name="Green TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BANGLADESHI",Green TV
@@ -109,8 +111,8 @@ https://your-stream-url.m3u8
 #EXTINF:-1 tvg-id="bd.btvnational" tvg-chno="50" tvg-name="BTV National" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",BTV National
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="bd.somoytv" tvg-chno="10" tvg-name="Somoy TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Somoy TV
-https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400534015263d040c06115a3c5d5d1d020b0808295c03152a07102e583901243566340e4c1b0b103a4a1e5f052653.m3u8
+#EXTINF:-1 tvg-id="bd.somoytv" tvg-chno="10" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png" group-title="NEWS",Somoy TV
+https://akash.sm-monirul.top/somoy_tv.m3u8
 
 #EXTINF:-1 tvg-id="bd.ekattortv" tvg-chno="11" tvg-name="Ekattor TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Ekattor TV
 http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
@@ -122,13 +124,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.independenttv" tvg-chno="14" tvg-name="Independent Television" tvg-logo="https://your-logo-url.png" group-title="NEWS",Independent Television
-https://your-stream-url.m3u8
+https://akash.sm-monirul.top/independent_tv.m3u8
 
-#EXTINF:-1 tvg-id="bd.dbcnews" tvg-chno="15" tvg-name="DBC News" tvg-logo="https://your-logo-url.png" group-title="NEWS",DBC News
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.dbcnews" tvg-chno="15" tvg-name="DBC News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="NEWS",DBC News
+https://akash.sm-monirul.top/dbc_news_hd.m3u8
 
 #EXTINF:-1 tvg-id="bd.news24" tvg-chno="16" tvg-name="News24" tvg-logo="https://your-logo-url.png" group-title="NEWS",News24
-https://your-stream-url.m3u8
+https://akash.sm-monirul.top/news_24_hd.m3u8
 
 #EXTINF:-1 tvg-id="bd.atnnews" tvg-chno="17" tvg-name="ATN News" tvg-logo="https://your-logo-url.png" group-title="NEWS",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
