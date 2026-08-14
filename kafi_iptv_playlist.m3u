@@ -16,7 +16,7 @@ https://akash.sm-monirul.top/btv_shangshad.m3u8
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.channeli" tvg-chno="6" tvg-name="Channel i" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="BANGLADESHI",Channel I HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+https://akash.sm-monirul.top/channel_i_hd.m3u8
 
 #EXTINF:-1 tvg-id="bd.ntv" tvg-chno="7" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="BANGLADESHI",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
@@ -71,7 +71,7 @@ https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.channel9" tvg-chno="34" tvg-name="Channel 9" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="BANGLADESHI",Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+https://akash.sm-monirul.top/channel_9_hd.m3u8
 
 #EXTINF:-1 tvg-id="bd.channel1" tvg-chno="35" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="BANGLADESHI",Channel 1
 https://akash.sm-monirul.top/channel_1.m3u8
@@ -135,7 +135,7 @@ https://akash.sm-monirul.top/news_24_hd.m3u8
 #EXTINF:-1 tvg-id="bd.atnnews" tvg-chno="17" tvg-name="ATN News" tvg-logo="https://your-logo-url.png" group-title="NEWS",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.ekhontv" tvg-chno="18" tvg-name="Ekhon TV" tvg-logo="https://your-logo-url.png" group-title="NEWS",Ekhon TV
+#EXTINF:-1 tvg-id="bd.ekhontv" tvg-chno="18" tvg-name="Ekhon TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="NEWS",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.tsports" tvg-chno="20" tvg-name="T Sports" tvg-logo="https://your-logo-url.png" group-title="SPORTS",T Sports
