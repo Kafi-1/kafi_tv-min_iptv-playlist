@@ -41,13 +41,13 @@ https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.maasrangatv" tvg-chno="24" tvg-name="Maasranga TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Maasranga TV
-https://your-stream-url.m3u8
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.deshtv" tvg-chno="25" tvg-name="Desh TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png" group-title="BANGLADESHI",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.satv" tvg-chno="26" tvg-name="SA TV" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",SA TV
-https://your-stream-url.m3u8
+https://cache.devm3u.top/live/satv.m3u8
 
 #EXTINF:-1 tvg-id="bd.nagoriktv" tvg-chno="27" tvg-name="Nagorik TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/nagorik-tv.png" group-title="BANGLADESHI",Nagorik TV
 https://go.skym3u.top/live/3b1f0d3d095a7061554143505b5440426e7d54515d2b15385d425b5d0c3f2f62451c3b350a5c00521b5d51003038000d4f0c433d68516861322d0b1e7a306f.m3u8
@@ -91,7 +91,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://your-stream-url.m3u8
 
 #EXTINF:-1 tvg-id="bd.moviebangla" tvg-chno="41" tvg-name="Movie Bangla" tvg-logo="https://i.ibb.co.com/CKVX4Pzx/images.png" group-title="BANGLADESHI",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+https://cache.devm3u.top/live/moviebangla.m3u8
 
 #EXTINF:-1 tvg-id="bd.drama24" tvg-chno="42" tvg-name="Drama 24" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Drama 24
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -118,7 +118,7 @@ https://akash.sm-monirul.top/somoy_tv.m3u8
 http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="bd.jamunatv" tvg-chno="12" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="NEWS",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+https://cache.devm3u.top/live/jamuna.m3u8
 
 #EXTINF:-1 tvg-id="bd.channel24" tvg-chno="13" tvg-name="Channel 24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="NEWS",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
