@@ -87,8 +87,8 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="bd.channels" tvg-chno="39" tvg-name="Channel S" tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="BANGLADESHI",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bd.timetelevision" tvg-chno="40" tvg-name="Time Television" tvg-logo="https://your-logo-url.png" group-title="BANGLADESHI",Time Television
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="bd.srk" tvg-chno="40" tvg-name="S R K" tvg-logo="https://imglink.cc/cdn/uZtiXpPz29.png" group-title="BANGLADESHI",SRK
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bd.moviebangla" tvg-chno="41" tvg-name="Movie Bangla" tvg-logo="https://i.ibb.co.com/CKVX4Pzx/images.png" group-title="BANGLADESHI",Movie Bangla
 https://cache.devm3u.top/live/moviebangla.m3u8
@@ -138,8 +138,8 @@ https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-id="bd.ekhontv" tvg-chno="18" tvg-name="Ekhon TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/ekhon-tv.png" group-title="NEWS",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.tsports" tvg-chno="20" tvg-name="T Sports" tvg-logo="https://your-logo-url.png" group-title="SPORTS",T Sports
-https://go.skym3u.top/live/3b1f0d3d404f707f11041e0400564015263d040c06115a3c5d5d1d6032062138623d677f0c1c0904164b03472a6b.m3u8
+#EXTINF:-1 tvg-id="bd.tsports" tvg-chno="20" tvg-name="T Sports" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="SPORTS",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-id="in.stajalshahd" tvg-chno="51" tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png" group-title="INDIAN-BANGLA",Star Jalsha HD
 https://go.skym3u.top/live/3b1f0d3d095a703c0c1c084f1b080b0030234b13000a5b2f5e514b193f020f281d0537205a1f0c0253555e4e6e125f544b5f4c190872730c6b2a5f3e47073a31084f5c545b52594479361d17170b07365d5e0f5b601e41.m3u8
