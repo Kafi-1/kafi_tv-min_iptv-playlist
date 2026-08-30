@@ -200,7 +200,7 @@ https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 https://your-stream-url.m3u8
 
 #EXTINF:-1 tvg-id="in.starplushd" tvg-chno="71" tvg-name="Star Plus HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScf2MxLrWo_R40DHXOmyMjr8GUK56B6vv8kp8oVTOthPwg.png" group-title="INDIAN-HINDI",Star Plus HD
-http://dvltv.cc:80/live/Digital-View-Web/6380-07053/473.m3u8
+http://mxonlive.xyz/live/xap/109949.m3u8?e=1788094747&token=68d928434ac931e9e3ea52387b471c3b71fe8a412f343c90ac4155985d4f9721
 
 #EXTINF:-1 tvg-id="in.starplus" tvg-chno="72" tvg-name="Star Plus" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScf2MxLrWo_R40DHXOmyMjr8GUK56B6vv8kp8oVTOthPwg.png" group-title="INDIAN-HINDI",Star Plus
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/143845.m3u8
@@ -223,8 +223,8 @@ http://dvltv.cc:80/live/Digital-View-Web/6380-07053/141784.m3u8
 #EXTINF:-1 tvg-id="in.sonytv" tvg-chno="78" tvg-name="Sony TV" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccnPKc0FRgFSvUdyZxqzXmWbBvusqsWBhHxtHIx0ERSvQ.png" group-title="INDIAN-HINDI",Sony TV
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/141784.m3u8
 
-#EXTINF:-1 tvg-id="in.sabtv" tvg-chno="79" tvg-name="SAB TV" tvg-logo="http://dvltv.cc:80/images/v8MS-17zGoHIyTBXGPTsUN7vbW730P7Mw0sNZ07m7O0Y7EfsfWra_Hen4j2S8KC12jaOMdVfH8s6eVwei4Igzw.png" group-title="INDIAN-HINDI",SAB TV
-http://dvltv.cc:80/live/Digital-View-Web/6380-07053/141830.m3u8
+#EXTINF:-1 tvg-id="in.sabtv" tvg-chno="79" tvg-name="SAB TV" tvg-logo="http://dvltv.cc:80/images/v8MS-17zGoHIyTBXGPTsUN7vbW730P7Mw0sNZ07m7O0Y7EfsfWra_Hen4j2S8KC12jaOMdVfH8s6eVwei4Igzw.png" group-title="INDIAN-HINDI",Sony Sab HD
+http://mxonlive.xyz/live/xap/66174.m3u8?e=1788094747&token=9f02de1d485396bdb83dc843f4fcafa25a3dea3e3c0cb5702f0a69438b794520
 
 #EXTINF:-1 tvg-id="in.sonypal" tvg-chno="80" tvg-name="Sony Pal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2BnXTYppwGWSiiYm-ckPd1mwf01HJPdX7Q4E0h0uEWHy1RzMBxMe0B4&s=10" group-title="INDIAN-HINDI",Sony Pal
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/142604.m3u8
