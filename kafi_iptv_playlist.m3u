@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="bd.btv" tvg-chno="1"< tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="BANGLADESHI,BTV
-https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8
+https://air-go.lovable.app/api/public/ak/live/122/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.btvworld" tvg-chno="2" tvg-name="BTV World" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png" group-title="BANGLADESHI",BTV World
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -16,7 +16,7 @@ https://akash-backup.sm-monirul-islam-rs.workers.dev/btv_shangshad.m3u8
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.channeli" tvg-chno="6" tvg-name="Channel i" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="BANGLADESHI",Channel I HD
-https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_i_hd.m3u8
+https://air-go.lovable.app/api/public/ak/live/132/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.ntv" tvg-chno="7" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="BANGLADESHI",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
@@ -74,9 +74,7 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_9_hd.m3u8
 
 #EXTINF:-1 tvg-id="bd.channel1" tvg-chno="35" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="BANGLADESHI",Channel 1
-https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_1.m3u8
-
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://air-go.lovable.app/api/public/ak/live/299/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.greentv" tvg-chno="37" tvg-name="Green TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BANGLADESHI",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
@@ -112,22 +110,22 @@ http://dvltv.cc:80/live/Digital-View-Web/6380-07053/357.m3u8
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/357.m3u8
 
 #EXTINF:-1 tvg-id="bd.somoytv" tvg-chno="10" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png" group-title="NEWS",Somoy TV
-https://akash-backup.sm-monirul-islam-rs.workers.dev/somoy_tv.m3u8
+https://air-go.lovable.app/api/public/ak/live/318/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.ekattortv" tvg-chno="11" tvg-name="Ekattor TV" tvg-logo="https://i.postimg.cc/8k2BcQV2/Ekattur.jpg" group-title="NEWS",Ekattor TV
-https://akash-backup.sm-monirul-islam-rs.workers.dev/ekattor_hd.m3u8
+https://air-go.lovable.app/api/public/ak/live/102/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.jamunatv" tvg-chno="12" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="NEWS",Jamuna TV
-https://akash-backup.sm-monirul-islam-rs.workers.dev/jamuna_tv.m3u8
+https://air-go.lovable.app/api/public/ak/live/97/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.channel24" tvg-chno="13" tvg-name="Channel 24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="NEWS",Channel 24
-https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_24_hd.m3u8
+https://air-go.lovable.app/api/public/ak/live/94/index.m3u8
 
-#EXTINF:-1 tvg-id="bd.independenttv" tvg-chno="14" tvg-name="Independent Television" tvg-logo="https://your-logo-url.png" group-title="NEWS",Independent Television
-https://akash-backup.sm-monirul-islam-rs.workers.dev/independent_tv.m3u8
+#EXTINF:-1 tvg-id="bd.independenttv" tvg-chno="14" tvg-name="Independent Television" tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="NEWS",Independent Television
+https://air-go.lovable.app/api/public/ak/live/96/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.dbcnews" tvg-chno="15" tvg-name="DBC News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="NEWS",DBC News
-https://akash-backup.sm-monirul-islam-rs.workers.dev/dbc_news_hd.m3u8
+https://air-go.lovable.app/api/public/ak/live/185/index.m3u8
 
 #EXTINF:-1 tvg-id="bd.news24" tvg-chno="16" tvg-name="News24" tvg-logo="https://i.postimg.cc/W1CswfzC/News-24.png" group-title="NEWS",News24
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/16884.m3u8
@@ -180,8 +178,8 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="in.calcuttanews" tvg-chno="63" tvg-name="Calcutta News" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Calcutta News
 https://your-stream-url.m3u8
 
-#EXTINF:-1 tvg-id="in.news18bangla" tvg-chno="64" tvg-name="News18 Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",News18 Bangla
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="in.news18bangla" tvg-chno="64" tvg-name="News18 Bangla" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",News 18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="in.zee24ghanta" tvg-chno="65" tvg-name="Zee 24 Ghanta" tvg-logo="https://your-logo-url.png" group-title="INDIAN-BANGLA",Zee 24 Ghanta
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=zee_24_ghanta&format=.m3u8
