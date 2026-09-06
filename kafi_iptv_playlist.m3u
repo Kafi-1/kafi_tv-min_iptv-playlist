@@ -119,7 +119,7 @@ http://dvltv.cc:80/live/Digital-View-Web/6380-07053/364.m3u8
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/18816.m3u8
 
 #EXTINF:-1 tvg-id="bd.channel24" tvg-chno="13" tvg-name="Channel 24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="NEWS",Channel 24
-https://air-go.lovable.app/api/public/ak/live/94/index.m3u8
+http://dvltv.cc:80/live/Digital-View-Web/6380-07053/18817.m3u8
 
 #EXTINF:-1 tvg-id="bd.independenttv" tvg-chno="14" tvg-name="Independent Television" tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png" group-title="NEWS",Independent Television
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/105506.m3u8
