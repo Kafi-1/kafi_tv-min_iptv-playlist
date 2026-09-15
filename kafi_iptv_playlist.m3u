@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="bd.btv" tvg-chno="1"< tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="BANGLADESHI,BTV
-https://air-go.lovable.app/api/public/ak/live/122/index.m3u8
+https://btv.hridoytv-channel.workers.dev/news.m3u8
 
 #EXTINF:-1 tvg-id="bd.btvworld" tvg-chno="2" tvg-name="BTV World" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png" group-title="BANGLADESHI",BTV World
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/358.m3u8
@@ -110,7 +110,7 @@ http://dvltv.cc:80/live/Digital-View-Web/6380-07053/357.m3u8
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/357.m3u8
 
 #EXTINF:-1 tvg-id="bd.somoytv" tvg-chno="10" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png" group-title="NEWS",Somoy TV
-https://stream.ottplus.bd/live/somoy_tv_abr/index.m3u8
+https://tvsen5.aynascope.net/somoytv/mono.m3u8
 
 #EXTINF:-1 tvg-id="bd.ekattortv" tvg-chno="11" tvg-name="Ekattor TV" tvg-logo="https://i.postimg.cc/8k2BcQV2/Ekattur.jpg" group-title="NEWS",Ekattor TV
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/364.m3u8
@@ -212,7 +212,7 @@ http://dvltv.cc:80/live/Digital-View-Web/6380-07053/41284.m3u8
 http://dvltv.cc:80/live/Digital-View-Web/6380-07053/41284.m3u8
 
 #EXTINF:-1 tvg-id="in.zeetvhd" tvg-chno="75" tvg-name="Zee TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtrRFwZp-UM6l2TXpZVbrDNN1DxWBET9_BQg&s" group-title="INDIAN-HINDI",Zee TV HD
-http://mxonlive.xyz/live/xap/66162.m3u8?e=1788094747&token=70ea03fdc8d778eb691cfc4569f7d47e80146d0acf569959d1ac25ed84de61fe
+http://41.205.93.154/ZEE-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="in.zeetv" tvg-chno="76" tvg-name="Zee TV" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png" group-title="INDIAN-HINDI",Zee TV
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
